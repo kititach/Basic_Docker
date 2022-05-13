@@ -1,8 +1,8 @@
 # Basic_Docker
 # Install Docker
-https://docs.docker.com/engine/install/ubuntu/
+credit: https://docs.docker.com/engine/install/ubuntu/
 # Install Portainer with Docker on Linux
-https://docs.portainer.io/v/ce-2.11/start/install/server/docker/linux
+credit: https://docs.portainer.io/v/ce-2.11/start/install/server/docker/linux
 ## Docker-Commands
 ### ตรวจสอบเวอชั่นของ Docker
 ```
