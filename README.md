@@ -24,6 +24,14 @@ docker inspect <container name>
 ```
 docker ps -a
 ```
+### ตรวจสอบ volume
+```
+docker volume ls
+```
+### ลบ volume
+```
+docker volume rm <volume name>
+```
 ### สั่งเริ่มการทำงานcontainer จาก container id
 ```
 docker start <container id>
