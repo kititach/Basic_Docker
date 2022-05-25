@@ -12,6 +12,10 @@ docker version
 ```
 docker images
 ```
+### ลบ images ในเครื่องของเรา
+```
+docker image rm [OPTIONS] IMAGE [IMAGE...]
+```
 ### ตรวจสอบรายละเอียดเพิ่มเติม
 ```
 docker inspect <container name>
